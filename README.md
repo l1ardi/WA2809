@@ -12,4 +12,4 @@ Extremely motivated for career change goal.
 
 ### My Projects
 
-[Persona] (https://github.com/l1ardi/WA2809/blob/main/Persona.html)
+* [Persona](https://github.com/l1ardi/WA2809/blob/main/Persona.html)
