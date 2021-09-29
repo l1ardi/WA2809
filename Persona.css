@@ -1,0 +1,98 @@
+.quote {
+    position: absolute;
+    width: 36px;
+    height: 83px;
+    left: 294px;
+    top: 30px;
+    font-family: Arial;
+    font-size: 90px;
+    line-height: 83px;
+    color: #C4C4C4;
+}
+
+.quotes {
+    position: absolute;
+    width: 100px;
+    height: 21px;
+    left: 350px;
+    top: 12px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 21px;
+}
+
+.quotes2 {
+    position: absolute;
+    width: 462px;
+    height: 21px;
+    left: 350px;
+    top: 53px;
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 21px;
+    color: #666666;
+}
+
+.photo {
+    position: absolute;
+    width: 270px;
+    height: 612px;
+    left: 0px;
+    top: 0px;
+}
+
+.lists {
+    background: #F9F9F9;
+    position: absolute;
+    width: 632px;
+    height: 499px;
+    left: 270px;
+    top: 113px;
+}
+
+.drive, .gn, .hpp {
+    margin: 21px 0 0 75px;
+    font-family: Arial;
+}
+
+.left-text {
+    position: absolute;
+    width: 270px;
+    height: 125px;
+    left: 0px;
+    top: 487px;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #000000 100%);
+}
+
+.sarah {
+    position: absolute;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: -10px;
+    font-family: Arial;
+    font-size: 22px;
+    line-height: 36px;
+    color: white;
+}
+
+.ul {
+    font-size: 13px;
+    margin-left: -25px;
+}
+
+.age, .tech {
+    font-family: Arial;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+}
+
+.age {
+    margin: 70px 0 0 14px;
+}
+
+.tech {
+    margin: 10px 0 0 14px;
+}
