@@ -1,6 +1,6 @@
 # Yulia Didenko, 23 y.o
 
-## MA in Law (cum laude)
+**MA in Law (cum laude)**
 
 Extremely motivated for career change goal.
 
